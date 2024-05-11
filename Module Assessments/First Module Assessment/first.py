@@ -1,0 +1,2 @@
+print("Hello world.")
+print("My name is Matt Dumouchel. I'm 45 years old and work at Western University.  I have four children - one whom is far better at coding than me.  I am taking this course to expand my skillsets.")
